@@ -32,6 +32,9 @@ authorization = "signam1q9qlkllcx0f2wld3rs0qpfq6qf20ufxvf072k05tlmq3xzmfjq732w3u
 
 [validator_account.metadata]
 email = "admin@su4ka.icu"
+twitter = "DeathAngel_69"
+discord = "konskaya.zalupa"
+element = "@pupsik:matrix.su4ka.icu"
 
 [validator_account.signatures]
 tpknam1qzylsfhahddatscwdf3762m78eut29c89ev62hmln4f6f3nuauslv86fqw6 = "signam1qp9yuj5zjv8k8w5ptaath90c263cw0excd4vzr05dczp7ent6n35uatzg45kfgqrasp38wxdvqan5nept6w3zlmdzy70pyhdyzna0qg046uey4"
